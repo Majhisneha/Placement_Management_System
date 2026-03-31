@@ -1,9 +1,4 @@
-# Deloitte Graduate Hiring 2025 Assessment
-
-**Full Name:** Majhi Sneha  
-**Email ID:** majhisneha097@gmail.com  
-**College Name:** Samskruti College of Engineering & Technology  
-**Selected Skill Track:** Java/API Development  
+PLACEMENT MANAGEMENT SYSTEM
 
 ## Project Description
 
@@ -38,4 +33,3 @@ This project is my **Placement Management System**. It demonstrates:
 5. Use Postman or any REST client to test API endpoints
 
 
-**This project is submitted for the Deloitte Graduate Hiring 2025 Assessment.**
